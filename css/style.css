@@ -168,4 +168,51 @@ section#card .list-group .active {
 .facility-holder .facility-description {
   font-size: 1.2rem;
 }
+
+#card .container .card .projects {
+  margin-bottom: 50px;
+}
+
+#card .container .card .projects h3.section-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#card .container .card .projects p.section-description {
+  font-size: 1rem;
+}
+
+#card .container .card .projects .project-card {
+  padding: 10px 20px;
+  border-bottom: 2px solid #ee1d5f;
+}
+
+.contact-detail a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: #000;
+}
+
+.contact-detail a span {
+  font-size: 1.2rem;
+  margin-right: 10px;
+}
+
+h3.contact-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 25px 0;
+  color: #ee1d5f;
+}
+
+.social-detail a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: #000;
+}
+
+.social-detail a span {
+  font-size: 1.2rem;
+  margin-right: 10px;
+}
 /*# sourceMappingURL=style.css.map */

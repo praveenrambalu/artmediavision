@@ -157,3 +157,53 @@ margin-bottom:75px;
         font-size:1.2rem;
     }
 }
+
+#card{
+    .container{
+        .card{
+            .projects{
+                margin-bottom: 50px;
+                h3.section-title{
+                    font-size: 2rem;
+                    font-weight: bold;
+                }
+                p.section-description{
+                    font-size: 1rem;
+                }
+                .project-card{
+                    padding: 10px 20px;
+                    border-bottom: 2px solid #ee1d5f; 
+                }
+            }
+        }
+    }
+}
+
+.contact-detail{
+    a{
+        text-decoration:none;
+        font-size:1rem;
+        color:#000;
+        span{
+            font-size:1.2rem;
+            margin-right:10px;
+        }
+    }
+}
+h3.contact-title{
+    font-size:1.2rem;
+    font-weight:bold;
+    margin:25px 0;
+    color:#ee1d5f;
+}
+.social-detail{
+    a{
+        text-decoration:none;
+        font-size:2rem;
+        color:#000;
+        span{
+            font-size:1.2rem;
+            margin-right:10px;
+        }
+    }
+}
